@@ -90,4 +90,8 @@ then
 
 
 # Useful Links
+Maniaplanet scripts and resources: https://github.com/maniaplanet/game-modes
 Title packs, Network configuration: https://doc.maniaplanet.com/dedicated-server/getting-started
+Original repo by PyPlanet (TrackMania): https://github.com/PyPlanet/maniaplanet-docker
+
+You might be interested in this too: https://github.com/zagorim/docker-speedball
